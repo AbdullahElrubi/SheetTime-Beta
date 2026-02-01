@@ -56,7 +56,7 @@ This is expected behavior for beta software.
 
 Your feedback directly shapes the roadmap.
 
-📝 Submit feedback here: **[Google Form link]**
+📝 Submit feedback here: **[Google Form link](https://forms.gle/3hnxgmkcUr6vykAEA)**
 
 ---
 
